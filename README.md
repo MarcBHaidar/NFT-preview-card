@@ -23,7 +23,7 @@ Users should be able to:
 ### Screenshot
 
 ![](https://github.com/MarcBHaidar/NFT-preview-card/blob/main/images/desktop-screenshot.jpg)
-![](https://github.com/MarcBHaidar/NFT-preview-card/blob/main/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/NFT-preview-card/blob/main/images/mobile-screenshot.jpg)
 
 ### Links
 
