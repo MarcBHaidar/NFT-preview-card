@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](../images/mobile-screenshot.jpg)
-![](../images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/NFT-preview-card/blob/main/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/NFT-preview-card/blob/main/images/desktop-screenshot.jpg)
 
 ### Links
 
